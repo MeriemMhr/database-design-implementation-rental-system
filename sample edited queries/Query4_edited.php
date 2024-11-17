@@ -1,8 +1,8 @@
 <?php
 $user = "[insert id here]";
 $password = "[insert password here]";
-$db = "[insert_key_here]_rentalca";
-$host = "sql108.infinityfree.com";
+$db = "[insert key here]_rentalca";
+$host = "[inser host domain here].com";
 $port = 3306;
 
 $conn = mysqli_connect($host, $user, $password, $db, $port);

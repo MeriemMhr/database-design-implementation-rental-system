@@ -1,1 +1,1 @@
-# database-design-management-implementation-rental-system
+# database-design-implementation-rental-system

@@ -1,7 +1,7 @@
 <?php
-$user = "if0_34866024";
-$password = "idksDqUhhZey0";
-$db = "if0_34866024_rentalca";
+$user = "[insert id here]";
+$password = "[insert password here]";
+$db = "[insert_key_here]_rentalca";
 $host = "sql108.infinityfree.com";
 $port = 3306;
 
